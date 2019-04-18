@@ -1,3 +1,3 @@
 # git-remote
 
-Hello World !
+version 0.1.0
